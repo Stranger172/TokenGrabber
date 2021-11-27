@@ -7,7 +7,7 @@ ____
 #### Ill be making a video tutorial about this grabber soon!
 
 ____
-#### Discord team need to wake up and make sure users and their datas are safe.
+#### Discord team need to wake up and make sure users and their datas are safe!
 # Updates will be constant | dm for update ideas: @††#7777
 ____
 
